@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+CRUD task completion 11/11/2021
+
+Netlify Link:
+https://epic-wing-b3a56d.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
